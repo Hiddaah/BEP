@@ -13,6 +13,7 @@ DQN can also be trained with an optional Joker rule.
 - `dqn_agent.py`: trains and evaluates the DQN.
 - `TrainingMetrics.py`: writes periodic training statistics.
 - `*QualitativeAnalysis.py`: analyzes recurring policy behavior.
+- `dqn_checkpoint.py`: evaluates a selected saved DQN checkpoint.
 
 ## Requirements
 
